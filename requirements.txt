@@ -15,8 +15,8 @@ idna==3.6
 injector==0.21.0 
 pycparser==2.21 
 pydantic==1.10.13 
-pyjwt==2.8.0 
-pyjwt[crypto]==2.8.0 
+pyjwt==2.15.0 
+pyjwt[crypto]==2.15.0 
 requests==2.31.0 
 soupsieve==2.5 
 sqlparse==0.4.4 
